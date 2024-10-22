@@ -1,5 +1,5 @@
 
-Deadline: 10/17 at 11:59 pm
+Deadline: 10/24 at 11:59 pm
 
 
 # 🏝️👩‍💻 VandyDataScience EM/Dev Assessment 2024 👩‍💻🏝️
@@ -16,7 +16,7 @@ The main goal of this assessment is for us to assess your comfort with using dat
 In this challenge, you will be selecting a dataset of your choice, cleaning the data, and creating/analyzing/evaluating a model to solve a problem. You are strongly discouraged from using a dataset/problem statement from Kaggle. Choose a topic that genuinely interests you and explore it in a new way!
 
 
-This challenge runs from 10/1 to 10/17, which means that you'll have **until 10/17 at 11:59pm** to finish AND submit your assignment. <u>You must submit your work through [Github](https://github.com/VandyDataScience/coding-challenge-FA24.git).</u> 
+This challenge runs from 10/1 to 10/24, which means that you'll have **until 10/24 at 11:59pm** to finish AND submit your assignment. <u>You must submit your work through [Github](https://github.com/VandyDataScience/coding-challenge-FA24.git).</u> 
 
 
 There are three levels, with each level directly building off of the last in order to create one full project.
@@ -41,7 +41,7 @@ In addition to your code, you will need to answer some general application quest
 
 
 ## Due Dates
-All parts of the application are due on **Thursday, October 17th at 11:59PM** with a 24-hour grace period until **Friday, October 18th at 11:59PM**. **Note:** To qualify for the grace period, you need to submit at least two of the three portions of the application completed or almost completed before the due date. For example, if you committed the application questions and the coding challenge and you need a little bit more time on the write-up before the due date, then you can have the extra day to complete your write-up. 
+All parts of the application are due on **Thursday, October 24th at 11:59PM** with a 24-hour grace period until **Friday, October 25th at 11:59PM**. **Note:** To qualify for the grace period, you need to submit at least two of the three portions of the application completed or almost completed before the due date. For example, if you committed the application questions and the coding challenge and you need a little bit more time on the write-up before the due date, then you can have the extra day to complete your write-up. 
 
 Good luck!!! You got this 😁😁
 
@@ -50,7 +50,7 @@ Good luck!!! You got this 😁😁
 Please do not hesitate to email [Ryan](ryan.li@vanderbilt.edu), [Ann](ann.e.mathew@vanderbilt.edu), [Isaac](isaac.s.liu@vanderbilt.edu), or anyone else from our exec team if you have any questions whatsoever about this assessemnt, VDS, or life.
 
 **Q: When is the deadline?**
-A: 10/17 at 11:59 pm! No further commits will be accepted after the deadline has passed unless you qualify for the 24 hour grace period. Make sure you have submitted the [application form](https://vandydatascienceclub.github.io/) so that we can keep track of your progress!
+A: 10/24 at 11:59 pm! No further commits will be accepted after the deadline has passed unless you qualify for the 24 hour grace period. Make sure you have submitted the [application form](https://vandydatascienceclub.github.io/) so that we can keep track of your progress!
 
 **Q: What resources can I use?**
 A: Almost anything! Feel free to reference any textbook code solutions, tutorials, StackOverflow posts, and _friend who strongly suggests using a while loop instead of hard coding all the cases in line 374_. Part of learning is not knowing how to solve problems, and we encourage you to find and use resources to overcome it! Keep in mind however, that learning is _not_ copying code verbatim from someone somwehere. Because of this, the only exceptions to our 'almost anything' rule is generative AI such as ChatGPT and no code machine learning platforms such as AutoML. Be prepared that in later stages we will be asking you to explain the solutions you have come up with in this assessment.
@@ -77,7 +77,7 @@ Set to <b>public<b> and click "create repository." All other options can be left
 
 **Q: I finished the challenge, what next?**
 A: Congratulations on finishing the challenge!! 
-Please submit the link to your Github repository through the general application form, which can be found [here](https://vandydatascienceclub.github.io/application_form.html). After 10/17, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
+Please submit the link to your Github repository through the general application form, which can be found [here](https://vandydatascienceclub.github.io/application_form.html). After 10/24, we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews! If you need any help submitting your work through Github, reach out to us!
 
 ## Submission Checklist
 
