@@ -14,14 +14,14 @@
  - The output of this file would have to be downloaded and pushed into the repo separately as I could not share my token in google colab
    
   ## Political Dataset_cleaning.ipynb
-  - This files cleans our orignal file Submissions/data/VandyDonations2024_2020.csv and produces the Submissions/data/donations_cleaned.csv
+  - This files cleans our orignal file VandyDonations2024_2020.csv and produces the Submissions/data/donations_cleaned.csv
     
   ## Political_dataset_modeling.ipynb
-  - This files processes Submissions/data/donations_cleaned.csv and produces the Submissions/data/donations_processed.csv
+  - This files processes donations_cleaned.csv and produces the donations_processed.csv
   - It labels our categorical data with numbers and also creates our 5nn model along with a PCA analysis showing why a nearest neighbor model was chosen
  
    ## Model_evaluation.ipynb
-  - This file processes Submissions/data/donations_processed.csv to evaluate our model with precision and recall
+  - This file processes donations_processed.csv to evaluate our model with precision and recall
   - Reason for choosing these metrics is shown as well
   - Room for improvement is discussed
  
